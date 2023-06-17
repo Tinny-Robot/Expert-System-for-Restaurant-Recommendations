@@ -1,0 +1,8 @@
+Restaurants with higher ratings are more likely to be recommended. This is because users are more likely to visit restaurants that have been rated highly by other users.
+Restaurants in the moderate price range are more likely to be recommended. This is because most users are looking for restaurants that are affordable.
+Restaurants that are located near the user are more likely to be recommended. This is because users are more likely to visit restaurants that are convenient.
+Restaurants that offer a variety of cuisines are more likely to be recommended. This is because users are more likely to find a restaurant that they like if there is a variety of cuisines to choose from.
+Restaurants that have a good atmosphere are more likely to be recommended. This is because users are more likely to enjoy their dining experience if the restaurant has a good atmosphere.
+Restaurants that have good service are more likely to be recommended. This is because users are more likely to return to a restaurant if they have a good experience with the service.
+Restaurants that are authentic and offer local cuisine are more likely to be recommended to tourists. This is because tourists are looking for a unique dining experience that they can't get at home.
+Restaurants that have high hygiene and safety standards are more likely to be recommended. This is because users are more likely to eat at a restaurant that they feel is safe. 
